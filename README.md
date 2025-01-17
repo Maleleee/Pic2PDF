@@ -1,4 +1,4 @@
-# Welcome to Pic2PDF
+# Pic2PDF
 
 **Pic2PDF** is a simple and user-friendly tool that converts images into a PDF file. Even if you have little technical knowledge, this guide will help you use the program with ease.
 
